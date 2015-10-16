@@ -1,0 +1,20 @@
+inicio
+addi 0 0 5
+or 1 0 3
+and 2 0 1
+sw 3 2 0
+sw 2 3 1
+subi 3 3 4
+sub 4 4 4
+lw 3 0 6
+lw 5 4 10
+addi 6 6 2
+addi 4 4 5
+sw 4 3 8
+sw 0 4 0
+beq 0 2 1
+nop
+nop
+nop
+j 0
+end
