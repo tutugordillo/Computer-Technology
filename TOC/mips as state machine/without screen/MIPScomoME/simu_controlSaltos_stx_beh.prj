@@ -1,0 +1,2 @@
+vhdl isim_temp "ControlBranch.vhd"
+vhdl isim_temp "simu_controlSaltos.vhd"

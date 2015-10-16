@@ -1,0 +1,109 @@
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/hoy/mips.xst" -ofn "C:/hlocal/hoy/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "D:/tercero/toc/mips/hoy/mips.xst" -ofn "D:/tercero/toc/mips/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoy/mips.xst" -ofn "C:/hlocal/hoy/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+xst -intstyle ise -ifn "C:/Users/Vicky/TOC/hoy/mips.xst" -ofn "C:/Users/Vicky/TOC/hoy/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/hoycambiadoporVicky/mips.xst" -ofn "C:/hlocal/hoycambiadoporVicky/mips.syr" 
+xst -intstyle ise -ifn "C:/Users/Vicky/TOC/MODIFICADOAUX-21-12/MODIFICADOAUX-19-12/mips.xst" -ofn "C:/Users/Vicky/TOC/MODIFICADOAUX-21-12/MODIFICADOAUX-19-12/mips.syr" 
+xst -intstyle ise -ifn "D:/tercero/toc/mips/MODIFICADOAUX-19-12/mips.xst" -ofn "D:/tercero/toc/mips/MODIFICADOAUX-19-12/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+par -w -intstyle ise -ol high -t 1 mips_map.ncd mips.ncd mips.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml mips.twx mips.ncd -o mips.twr mips.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f mips.ut mips.ncd 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+par -w -intstyle ise -ol high -t 1 mips_map.ncd mips.ncd mips.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml mips.twx mips.ncd -o mips.twr mips.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f mips.ut mips.ncd 
+bitgen -intstyle ise -f mips.ut mips.ncd 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+par -w -intstyle ise -ol high -t 1 mips_map.ncd mips.ncd mips.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml mips.twx mips.ncd -o mips.twr mips.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f mips.ut mips.ncd 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.xst" -ofn "C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s1000-ft256-5 mips.ngc mips.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+par -w -intstyle ise -ol high -t 1 mips_map.ncd mips.ncd mips.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml mips.twx mips.ncd -o mips.twr mips.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f mips.ut mips.ncd 
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mips_map.ncd mips.ngd mips.pcf 
+par -w -intstyle ise -ol high -t 1 mips_map.ncd mips.ncd mips.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml mips.twx mips.ncd -o mips.twr mips.pcf -ucf pines.ucf 
+xst -intstyle ise -ifn "C:/hlocal/MIPScomoME/mips.xst" -ofn "C:/hlocal/MIPScomoME/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/MIPScomoME/mips.xst" -ofn "C:/hlocal/MIPScomoME/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/MIPScomoME/mips.xst" -ofn "C:/hlocal/MIPScomoME/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/MIPScomoME/mips.xst" -ofn "C:/hlocal/MIPScomoME/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/MIPScomoME/mips.xst" -ofn "C:/hlocal/MIPScomoME/mips.syr" 
+xst -intstyle ise -ifn "C:/hlocal/MIPScomoME/mips.xst" -ofn "C:/hlocal/MIPScomoME/mips.syr" 

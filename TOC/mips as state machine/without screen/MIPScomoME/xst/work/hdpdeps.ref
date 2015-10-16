@@ -1,0 +1,173 @@
+V3 135
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/ALU.vhd 2013/01/13.17:10:06 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/AluControl.vhd 2013/01/13.17:10:08 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/BancoDeRegistros.vhd 2013/01/13.17:10:08 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/bitx.vhd 2013/01/11.17:45:10 P.15xf
+EN work/bitx 1357930727 FL C:/hlocal/DEFINITIVOsinSEGMENTAR/bitx.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625 \
+      PB ieee/std_logic_arith 1335251623 PB work/tipos 1358256678
+AR work/bitx/Behavioral 1357930728 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/bitx.vhd EN work/bitx 1357930727
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/Constantes.vhd 2013/01/09.19:29:09 P.15xf
+EN work/Constantes 1357930731 FL C:/hlocal/DEFINITIVOsinSEGMENTAR/Constantes.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625 \
+      PB ieee/std_logic_arith 1335251623 PB work/tipos 1358256678
+AR work/Constantes/Behavioral 1357930732 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/Constantes.vhd EN work/Constantes 1357930731
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/control.vhd 2013/01/15.14:02:24 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/ControlBranch.vhd 2013/01/13.17:10:08 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/divisor.vhd 2012/12/19.16:04:34 P.15xf
+EN work/divisor 1357930735 FL C:/hlocal/DEFINITIVOsinSEGMENTAR/divisor.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/divisor/divisor_arch 1357930736 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/divisor.vhd EN work/divisor 1357930735
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/divisor2.vhd 2013/01/11.19:58:42 P.15xf
+EN work/divisor2 1357930755 FL C:/hlocal/DEFINITIVOsinSEGMENTAR/divisor2.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/divisor2/divisor_arch 1357930756 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/divisor2.vhd EN work/divisor2 1357930755
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/ExtensorSigno.vhd 2013/01/13.17:10:08 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/Instruction.vhd 2013/01/09.19:03:36 P.15xf
+EN work/Instruction 1357930729 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/Instruction.vhd PB ieee/std_logic_1164 1335251622 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625 PB ieee/std_logic_arith 1335251623 \
+      PB work/tipos 1358256678
+AR work/Instruction/Behavioral 1357930730 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/Instruction.vhd EN work/Instruction 1357930729
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/MemoriaDeDatos.vhd 2013/01/13.17:10:10 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/MemoriaDeInstrucciones.vhd 2013/01/15.14:03:44 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/mips.vhd 2013/01/15.14:01:21 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/States.vhd 2013/01/11.18:16:35 P.15xf
+EN work/States 1357930733 FL C:/hlocal/DEFINITIVOsinSEGMENTAR/States.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625 \
+      PB ieee/std_logic_arith 1335251623 PB work/tipos 1358256678
+AR work/States/Behavioral 1357930734 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/States.vhd EN work/States 1357930733
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/tipos.vhd 2013/01/13.17:10:14 P.15xf
+FL C:/hlocal/DEFINITIVOsinSEGMENTAR/vga.vhd 2013/01/11.19:54:09 P.15xf
+EN work/vgacore 1357930753 FL C:/hlocal/DEFINITIVOsinSEGMENTAR/vga.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625 \
+      PB ieee/std_logic_arith 1335251623 PB work/tipos 1358256678
+AR work/vgacore/vgacore_arch 1357930754 \
+      FL C:/hlocal/DEFINITIVOsinSEGMENTAR/vga.vhd EN work/vgacore 1357930753 \
+      CP bitx CP Instruction CP Constantes CP States CP divisor
+FL C:/hlocal/hoy/ALU.vhd 2012/12/05.17:29:24 P.15xf
+FL C:/hlocal/hoy/AluControl.vhd 2012/12/04.13:21:16 P.15xf
+FL C:/hlocal/hoy/BancoDeRegistros.vhd 2012/12/15.01:54:35 P.15xf
+FL C:/hlocal/hoy/control.vhd 2012/12/14.23:54:31 P.15xf
+FL C:/hlocal/hoy/ControlBramch.vhd 2012/12/04.13:21:38 P.15xf
+FL C:/hlocal/hoy/ControlBranch.vhd 2012/12/04.13:57:58 P.15xf
+FL C:/hlocal/hoy/ExtensorSigno.vhd 2012/12/04.14:09:52 P.15xf
+FL C:/hlocal/hoy/hoy/ALU.vhd 2012/12/05.17:29:24 P.15xf
+FL C:/hlocal/hoy/hoy/AluControl.vhd 2012/12/04.13:21:16 P.15xf
+FL C:/hlocal/hoy/hoy/BancoDeRegistros.vhd 2012/12/04.14:17:10 P.15xf
+FL C:/hlocal/hoy/hoy/control.vhd 2012/12/05.17:29:47 P.15xf
+FL C:/hlocal/hoy/hoy/ControlBranch.vhd 2012/12/04.13:57:58 P.15xf
+FL C:/hlocal/hoy/hoy/ExtensorSigno.vhd 2012/12/04.14:09:52 P.15xf
+FL C:/hlocal/hoy/hoy/MemoriaDeInstrucciones.vhd 2012/12/04.14:16:36 P.15xf
+FL C:/hlocal/hoy/hoy/mips.vhd 2012/12/05.17:49:31 P.15xf
+FL C:/hlocal/hoy/hoy/tipos.vhd 2012/12/05.17:29:43 P.15xf
+FL C:/hlocal/hoy/MemoriaDeInstrucciones.vhd 2012/12/15.01:53:37 P.15xf
+FL C:/hlocal/hoy/mips.vhd 2012/12/15.02:08:13 P.15xf
+FL C:/hlocal/hoy/MIPSX.vhd 2012/12/14.17:43:33 P.15xf
+EN work/MIPSX 1355503417 FL C:/hlocal/hoy/MIPSX.vhd PB ieee/std_logic_1164 1335251622 \
+      PB work/tipos 1358256678
+AR work/MIPSX/Behavioral 1355503418 \
+      FL C:/hlocal/hoy/MIPSX.vhd EN work/MIPSX 1355503417
+FL C:/hlocal/hoy/tipos.vhd 2012/12/05.17:29:43 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/ALU.vhd 2012/12/15.17:26:56 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/AluControl.vhd 2012/12/19.15:51:39 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/BancoDeRegistros.vhd 2012/12/15.17:27:02 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/control.vhd 2012/12/19.15:56:22 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/ControlBranch.vhd 2012/12/15.17:27:08 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/ExtensorSigno.vhd 2012/12/15.17:27:08 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/MemoriaDeDatos.vhd 2012/12/19.15:39:40 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/MemoriaDeInstrucciones.vhd 2012/12/19.15:41:30 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/mips.vhd 2012/12/19.15:56:22 P.15xf
+FL C:/hlocal/hoycambiadoporVicky/tipos.vhd 2012/12/15.17:27:18 P.15xf
+FL C:/hlocal/MIPScomoME/ALU.vhd 2013/01/13.17:10:06 P.15xf
+EN work/alu8bit 1358256691 FL C:/hlocal/MIPScomoME/ALU.vhd PB ieee/std_logic_1164 1335251622 \
+      PB ieee/STD_LOGIC_SIGNED 1335251624 PB ieee/std_logic_arith 1335251623
+AR work/alu8bit/behavioral 1358256692 \
+      FL C:/hlocal/MIPScomoME/ALU.vhd EN work/alu8bit 1358256691
+FL C:/hlocal/MIPScomoME/AluControl.vhd 2013/01/13.17:10:08 P.15xf
+EN work/AluControl 1358256687 FL C:/hlocal/MIPScomoME/AluControl.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/AluControl/Behavioral 1358256688 \
+      FL C:/hlocal/MIPScomoME/AluControl.vhd EN work/AluControl 1358256687
+FL C:/hlocal/MIPScomoME/BancoDeRegistros.vhd 2013/01/13.17:10:08 P.15xf
+EN work/BancoDeRegistros 1358256683 FL C:/hlocal/MIPScomoME/BancoDeRegistros.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/BancoDeRegistros/Behavioral 1358256684 \
+      FL C:/hlocal/MIPScomoME/BancoDeRegistros.vhd EN work/BancoDeRegistros 1358256683
+FL C:/hlocal/MIPScomoME/control.vhd 2013/01/15.14:02:24 P.15xf
+EN work/control 1358256689 FL C:/hlocal/MIPScomoME/control.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_SIGNED 1335251624 PB work/tipos 1358256678
+AR work/control/Behavioral 1358256690 \
+      FL C:/hlocal/MIPScomoME/control.vhd EN work/control 1358256689
+FL C:/hlocal/MIPScomoME/ControlBranch.vhd 2013/01/13.17:10:08 P.15xf
+EN work/ControlBranch 1358256685 FL C:/hlocal/MIPScomoME/ControlBranch.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/ControlBranch/Behavioral 1358256686 \
+      FL C:/hlocal/MIPScomoME/ControlBranch.vhd EN work/ControlBranch 1358256685
+FL C:/hlocal/MIPScomoME/ExtensorSigno.vhd 2013/01/13.17:10:08 P.15xf
+EN work/ExtensorSigno 1358256693 FL C:/hlocal/MIPScomoME/ExtensorSigno.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/ExtensorSigno/Behavioral 1358256694 \
+      FL C:/hlocal/MIPScomoME/ExtensorSigno.vhd EN work/ExtensorSigno 1358256693
+FL C:/hlocal/MIPScomoME/MemoriaDeDatos.vhd 2013/01/13.17:10:10 P.15xf
+EN work/MemoriaDeDatos 1358256681 FL C:/hlocal/MIPScomoME/MemoriaDeDatos.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/MemoriaDeDatos/Behavioral 1358256682 \
+      FL C:/hlocal/MIPScomoME/MemoriaDeDatos.vhd EN work/MemoriaDeDatos 1358256681
+FL C:/hlocal/MIPScomoME/MemoriaDeInstrucciones.vhd 2013/01/15.14:19:08 P.15xf
+EN work/MemoriaDeInstrucciones 1358256679 \
+      FL C:/hlocal/MIPScomoME/MemoriaDeInstrucciones.vhd PB ieee/std_logic_1164 1335251622 \
+      PB ieee/std_logic_arith 1335251623 PB ieee/STD_LOGIC_UNSIGNED 1335251625 \
+      PB std/TEXTIO 1335251621
+AR work/MemoriaDeInstrucciones/Behavioral 1358256680 \
+      FL C:/hlocal/MIPScomoME/MemoriaDeInstrucciones.vhd \
+      EN work/MemoriaDeInstrucciones 1358256679
+FL C:/hlocal/MIPScomoME/mips.vhd 2013/01/15.14:31:12 P.15xf
+EN work/mips 1358256695 FL C:/hlocal/MIPScomoME/mips.vhd PB ieee/std_logic_1164 1335251622 \
+      PB work/tipos 1358256678
+AR work/mips/Behavioral 1358256696 \
+      FL C:/hlocal/MIPScomoME/mips.vhd EN work/mips 1358256695 \
+      CP MemoriaDeInstrucciones CP MemoriaDeDatos CP BancoDeRegistros \
+      CP ControlBranch CP AluControl CP control CP alu8bit CP ExtensorSigno
+FL C:/hlocal/MIPScomoME/tipos.vhd 2013/01/13.17:10:14 P.15xf
+PH work/tipos 1358256677 FL C:/hlocal/MIPScomoME/tipos.vhd PB ieee/std_logic_1164 1335251622
+PB work/tipos 1358256678 \
+      FL C:/hlocal/MIPScomoME/tipos.vhd PH work/tipos 1358256677
+FL C:/Users/Vicky/TOC/hoy/ALU.vhd 2012/12/15.17:26:54 P.15xf
+FL C:/Users/Vicky/TOC/hoy/AluControl.vhd 2012/12/15.17:27:00 P.15xf
+FL C:/Users/Vicky/TOC/hoy/BancoDeRegistros.vhd 2012/12/15.17:27:01 P.15xf
+FL C:/Users/Vicky/TOC/hoy/control.vhd 2012/12/16.13:56:34 P.15xf
+FL C:/Users/Vicky/TOC/hoy/ControlBranch.vhd 2012/12/15.17:27:06 P.15xf
+FL C:/Users/Vicky/TOC/hoy/ExtensorSigno.vhd 2012/12/15.17:27:07 P.15xf
+FL C:/Users/Vicky/TOC/hoy/MemoriaDeInstrucciones.vhd 2012/12/15.17:27:13 P.15xf
+FL C:/Users/Vicky/TOC/hoy/mips.vhd 2012/12/16.13:56:34 P.15xf
+FL C:/Users/Vicky/TOC/hoy/tipos.vhd 2012/12/15.17:27:17 P.15xf
+FL C:/Users/Vicky/TOC/MODIFICADOAUX-21-12/MODIFICADOAUX-19-12/tipos.vhd 2012/12/22.13:34:37 P.15xf
+FL D:/tercero/toc/mips/hoy/ALU.vhd 2012/12/05.17:29:24 P.15xf
+FL D:/tercero/toc/mips/hoy/AluControl.vhd 2012/12/04.13:21:16 P.15xf
+FL D:/tercero/toc/mips/hoy/BancoDeRegistros.vhd 2012/12/14.20:11:08 P.15xf
+FL D:/tercero/toc/mips/hoy/control.vhd 2012/12/05.17:29:47 P.15xf
+FL D:/tercero/toc/mips/hoy/ControlBranch.vhd 2012/12/04.13:57:58 P.15xf
+FL D:/tercero/toc/mips/hoy/ExtensorSigno.vhd 2012/12/04.14:09:52 P.15xf
+FL D:/tercero/toc/mips/hoy/MemoriaDeInstrucciones.vhd 2012/12/14.20:34:07 P.15xf
+FL D:/tercero/toc/mips/hoy/mips.vhd 2012/12/14.19:50:08 P.15xf
+FL D:/tercero/toc/mips/hoy/tipos.vhd 2012/12/05.17:29:43 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/ALU.vhd 2012/12/22.13:34:34 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/AluControl.vhd 2012/12/22.13:34:34 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/BancoDeRegistros.vhd 2012/12/22.13:34:34 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/control.vhd 2012/12/24.18:11:24 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/ControlBranch.vhd 2012/12/22.13:34:34 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/ExtensorSigno.vhd 2012/12/22.13:34:34 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/MemoriaDeDatos.vhd 2012/12/22.13:34:34 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/MemoriaDeInstrucciones.vhd 2012/12/24.19:55:42 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/mips.vhd 2012/12/24.19:49:02 P.15xf
+FL D:/tercero/toc/mips/MODIFICADOAUX-19-12/tipos.vhd 2012/12/22.13:34:38 P.15xf
