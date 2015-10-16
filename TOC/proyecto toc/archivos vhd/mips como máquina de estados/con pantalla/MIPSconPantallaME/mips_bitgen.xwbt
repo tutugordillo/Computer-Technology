@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\hlocal\MIPSconPantallaME\mips.ncd
-OUTFILE=C:\hlocal\MIPSconPantallaME\mips.bit
-FAMILY=Spartan3
-PART=xc3s1000-5ft256
-WORKINGDIR=C:\hlocal\MIPSconPantallaME
-LICENSE=WebPack
-USER_INFO=205620466_0_0_015

@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/hlocal/MIPScomoME/mips_simu_isim_beh.exe" -prj "C:/hlocal/MIPScomoME/mips_simu_beh.prj" "work.mips_simu" 

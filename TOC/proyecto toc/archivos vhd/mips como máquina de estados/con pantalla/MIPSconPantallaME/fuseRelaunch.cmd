@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Vicky/TOC/DEFINITIVOsinSEGMENTARconPantalla/DEFINITIVOsinSEGMENTAR/mips_simu_isim_beh.exe" -prj "C:/Users/Vicky/TOC/DEFINITIVOsinSEGMENTARconPantalla/DEFINITIVOsinSEGMENTAR/mips_simu_beh.prj" "mips_simu" 

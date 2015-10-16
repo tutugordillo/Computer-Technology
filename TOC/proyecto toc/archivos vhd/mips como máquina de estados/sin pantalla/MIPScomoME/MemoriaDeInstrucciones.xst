@@ -1,5 +1,0 @@
-set -tmpdir "C:/hlocal/DEFINITIVOsinSEGMENTAR/xst/projnav.tmp"
-set -xsthdpdir "C:/hlocal/DEFINITIVOsinSEGMENTAR/xst"
-elaborate
--ifn MemoriaDeInstrucciones.prj
--ifmt mixed
