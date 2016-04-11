@@ -1,0 +1,34 @@
+<serieAsignacionVictimas1460022827492>
+  <tituloSerie>serieAsignacionVictimas1460022827492</tituloSerie>
+  <infoEntornoSimulacion>
+    <tiempoInicioSimulacion>1460022827492</tiempoInicioSimulacion>
+    <nroVictimasenEntorno>5</nroVictimasenEntorno>
+    <numeroRobotsSimulacion>5</numeroRobotsSimulacion>
+    <intervaloSecuencia>1000</intervaloSecuencia>
+    <equipoId>rescate1</equipoId>
+  </infoEntornoSimulacion>
+  <tiempoInicioSimulacion>0</tiempoInicioSimulacion>
+  <nrovictimastotalasignadas>5</nrovictimastotalasignadas>
+  <serieResultados>
+    <puntoAsignacionVictima>
+      <x>1.0</x>
+      <y>316.0</y>
+    </puntoAsignacionVictima>
+    <puntoAsignacionVictima>
+      <x>2.0</x>
+      <y>85.0</y>
+    </puntoAsignacionVictima>
+    <puntoAsignacionVictima>
+      <x>3.0</x>
+      <y>131.0</y>
+    </puntoAsignacionVictima>
+    <puntoAsignacionVictima>
+      <x>4.0</x>
+      <y>12090.0</y>
+    </puntoAsignacionVictima>
+    <puntoAsignacionVictima>
+      <x>5.0</x>
+      <y>11234.0</y>
+    </puntoAsignacionVictima>
+  </serieResultados>
+</serieAsignacionVictimas1460022827492>
